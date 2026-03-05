@@ -1,0 +1,78 @@
+
+body{
+font-family: Arial;
+background-color: powderblue;
+margin:0;
+}
+#about{
+padding:120px 20px;
+
+}
+
+#menu{
+padding:100px;
+}
+#services{
+padding:200px 20px;
+}
+#contact{
+padding:200px 20px;
+}
+nav{
+background-color:black;
+padding:45px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:20px;
+text-decoration:none;
+font-size:18px;
+padding:45px;
+}
+
+nav a:hover{
+color:yellow;
+}
+
+section{
+padding:50px;
+text-align:center;
+}
+ul{
+list-style-position:inside;
+}
+h1{
+color:green;
+}
+
+h2{
+color:brown;
+font-size:60px;
+text-align:center;
+margin-top:-30px;
+}
+h3{
+color:brown;
+}
+p{
+font-size:20px;
+}
+#services ul{
+padding-left:400px;
+font-size:20px;
+}
+img{
+display:block;
+margin:auto;
+}
+.menuimg{
+float:right;
+
+}
+.serveimg{
+float:right;
+margin-right:50px;
+vertical-align:middle;
+}
